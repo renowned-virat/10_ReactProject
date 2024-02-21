@@ -1,0 +1,13 @@
+.contactheader h1{
+    
+    font-size: 48;
+    font-weight: 800;
+    color: black;
+}
+
+.contactheader p{
+    justify-content: space-between;
+    font-size: 16;
+    font-weight: 500;
+    color: #5A5959;
+}
